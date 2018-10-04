@@ -22,7 +22,7 @@ class A extends Thread
             System.out.println("Exit From B");
         }        
     }
-    public class ThreadProg
+    public class ThreadPrior
     {
         public static void main(String args[])
         {
