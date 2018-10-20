@@ -1,14 +1,14 @@
 import java.util.*;
 import java.lang.*;
 
-class MethodOverload
+class aMethodOvrld
 {  
     public static double area(double diameter)
     {
         return(3.14*diameter);
     }
 
-     public static double area(double width, double height)
+     public static double area(double width,double height)
     {
         return(width*height);
     }
