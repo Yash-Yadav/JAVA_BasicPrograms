@@ -1,6 +1,3 @@
-import java.util.*;
-import java.lang.*;
-
 class demo
 {
     public demo()		

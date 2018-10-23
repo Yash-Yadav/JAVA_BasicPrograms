@@ -1,6 +1,3 @@
-import java.util.*;
-import java.lang.*;
-
 interface Demo
 {
   final String TMP = "Adding 2 Integers";

@@ -1,6 +1,3 @@
-import java.util.*;
-import java.lang.*;
-
 class Parent
 {
   public Parent()

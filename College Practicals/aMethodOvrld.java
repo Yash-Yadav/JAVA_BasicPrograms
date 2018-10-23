@@ -1,6 +1,3 @@
-import java.util.*;
-import java.lang.*;
-
 class aMethodOvrld
 {  
     public static double area(double diameter)
